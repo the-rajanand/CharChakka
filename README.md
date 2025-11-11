@@ -52,7 +52,7 @@ Follow these steps to clone and run the CharChakka application on your developme
 1.  **Clone the Repository**
     Open your terminal or command prompt and clone the project files:
     ```bash
-    git clone [https://github.com/the-rajanand/CharChakka.git](https://github.com/the-rajanand/CharChakka-Showroom-Management.git)
+    git clone [https://github.com/the-rajanand/CharChakka.git](https://github.com/the-rajanand/CharChakka.git)
     cd CharChakka
     ```
 
