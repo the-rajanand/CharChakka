@@ -32,7 +32,7 @@ All core tables in the database schema, including Admin, Customer, Dealer, Showr
 ## 🛠️ Development Details
 
 * **Development Environment:** Visual Studio
-* **Core Technology:** Likely C# / .NET (based on file structure)
+* **Core Technology:** C# / .NET
 * **Methodology:** The project followed a structured development methodology including Requirement Analysis, System Design, Implementation, Testing, Deployment, and Maintenance.
 
 ---
